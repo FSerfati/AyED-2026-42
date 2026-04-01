@@ -6,6 +6,6 @@
 
 Contenidos
 *etapa 1: fundamentos de programacion
-etapa 2
-etapa 3
-etapa4
+*etapa 2
+*etapa 3
+*etapa4
