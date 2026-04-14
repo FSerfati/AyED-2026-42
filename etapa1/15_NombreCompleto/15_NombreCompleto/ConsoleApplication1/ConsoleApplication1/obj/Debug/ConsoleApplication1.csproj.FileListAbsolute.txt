@@ -1,0 +1,2 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\15_NombreCompleto\15_NombreCompleto\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\15_NombreCompleto\15_NombreCompleto\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

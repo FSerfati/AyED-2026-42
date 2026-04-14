@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\0_MayorDeEdad\0_MayorDeEdad\0_MayorDeEdad\bin\Debug\0_MayorDeEdad.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\0_MayorDeEdad\0_MayorDeEdad\0_MayorDeEdad\obj\Debug\0_MayorDeEdad.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\0_MayorDeEdad\0_MayorDeEdad\0_MayorDeEdad\bin\Debug\0_MayorDeEdad.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\0_MayorDeEdad\0_MayorDeEdad\0_MayorDeEdad\bin\Debug\0_MayorDeEdad.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\0_MayorDeEdad\0_MayorDeEdad\0_MayorDeEdad\obj\Debug\0_MayorDeEdad.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\0_MayorDeEdad\0_MayorDeEdad\0_MayorDeEdad\obj\Debug\0_MayorDeEdad.pdb
