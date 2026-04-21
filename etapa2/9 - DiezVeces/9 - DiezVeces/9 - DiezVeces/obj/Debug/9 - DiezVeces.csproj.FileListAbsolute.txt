@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\9 - DiezVeces\9 - DiezVeces\9 - DiezVeces\bin\Debug\9 - DiezVeces.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\9 - DiezVeces\9 - DiezVeces\9 - DiezVeces\bin\Debug\9 - DiezVeces.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\9 - DiezVeces\9 - DiezVeces\9 - DiezVeces\bin\Debug\9 - DiezVeces.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\9 - DiezVeces\9 - DiezVeces\9 - DiezVeces\obj\Debug\9 - DiezVeces.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\9 - DiezVeces\9 - DiezVeces\9 - DiezVeces\obj\Debug\9 - DiezVeces.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\9 - DiezVeces\9 - DiezVeces\9 - DiezVeces\obj\Debug\9 - DiezVeces.pdb
