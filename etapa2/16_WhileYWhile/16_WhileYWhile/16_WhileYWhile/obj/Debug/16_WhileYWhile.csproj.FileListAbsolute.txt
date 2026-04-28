@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\16_WhileYWhile\16_WhileYWhile\16_WhileYWhile\bin\Debug\16_WhileYWhile.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\16_WhileYWhile\16_WhileYWhile\16_WhileYWhile\bin\Debug\16_WhileYWhile.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\16_WhileYWhile\16_WhileYWhile\16_WhileYWhile\bin\Debug\16_WhileYWhile.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\16_WhileYWhile\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\16_WhileYWhile\16_WhileYWhile\16_WhileYWhile\obj\Debug\16_WhileYWhile.pdb
