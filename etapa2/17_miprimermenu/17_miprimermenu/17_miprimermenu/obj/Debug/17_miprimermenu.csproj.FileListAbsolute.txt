@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\17_miprimermenu\17_miprimermenu\17_miprimermenu\bin\Debug\17_miprimermenu.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\17_miprimermenu\17_miprimermenu\17_miprimermenu\bin\Debug\17_miprimermenu.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\17_miprimermenu\17_miprimermenu\17_miprimermenu\bin\Debug\17_miprimermenu.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\17_miprimermenu\17_miprimermenu\17_miprimermenu\obj\Debug\17_miprimermenu.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\17_miprimermenu\17_miprimermenu\17_miprimermenu\obj\Debug\17_miprimermenu.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa2\17_miprimermenu\17_miprimermenu\17_miprimermenu\obj\Debug\17_miprimermenu.pdb
