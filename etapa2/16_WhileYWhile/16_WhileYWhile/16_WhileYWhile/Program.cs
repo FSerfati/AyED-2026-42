@@ -10,37 +10,64 @@ namespace _16_WhileYWhile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Números Impares 0-100 ");
-            for (int i = 0; i <= 100; i++)
+            int numero;
+            Console.WriteLine("los numeros Impares son");
+            numero = 0;
+            while (numero <= 100)
             {
-                if (i % 2 != 0) Console.Write(i + " ");
+                if (numero % 2 != 0) Console.Write(numero + ", ");
+                numero++;
             }
-            Console.WriteLine("\n\n Números Pares 0-100 ");
-            for (int i = 0; i <= 100; i++)
+            Console.WriteLine("");
+            Console.WriteLine("los numeros Pares son");
+            numero = 0;
+            while (numero <= 100)
             {
-                if (i % 2 == 0) Console.Write(i + " ");
+                if (numero % 2 == 0) Console.Write(numero + ", ");
+                numero++;
             }
-            Console.WriteLine("\n\n Números del 0 al 100 ");
-            for (int i = 0; i <= 100; i++)
+            Console.WriteLine("");
+            Console.WriteLine("los numeros del 0 al 100 son");
+            numero = 0;
+            while (numero <= 100)
             {
-                Console.Write(i + " ");
+                Console.Write(numero + " ");
+                numero++;
             }
-            Console.WriteLine("\n\n Números del 100 al 0 ");
-            for (int i = 100; i >= 0; i--)
+            Console.WriteLine("");
+            Console.WriteLine("los numeros del 100 al 0 son");
+            numero = 100;
+            while (numero >= 0)
             {
-                Console.Write(i + " ");
+                Console.Write(numero + ", ");
+                numero--;
             }
-            Console.WriteLine("\n\n Múltiplos de 3 0-100 ");
-            for (int i = 0; i <= 100; i++)
+            Console.WriteLine("");
+            Console.WriteLine("los multiplos de 3 son");
+            numero = 0;
+            while (numero <= 100)
             {
-                if (i % 3 == 0 && i != 0) Console.Write(i + " ");
+                if (numero > 0)
+                {
+                    if (numero % 3 == 0) Console.Write(numero + ", ");
+                }
+                numero++;
             }
-            Console.WriteLine("\n\n Múltiplos de 3 y 2 0-100");
-            for (int i = 0; i <= 100; i++)
+            Console.WriteLine("");
+            Console.WriteLine("los multiplos de 3 y 2 son");
+            numero = 0;
+            while (numero <= 100)
             {
-                if (i % 3 == 0 && i % 2 == 0 && i != 0) Console.Write(i + " ");
+                if (numero > 0)
+                {
+                    if (numero % 3 == 0)
+                    {
+                        if (numero % 2 == 0) Console.Write(numero + ", ");
+                    }
+                }
+                numero++;
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
