@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\0-cargando edades\0-cagandoedades\0-cagandoedades\bin\Debug\0-cagandoedades.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\0-cargando edades\0-cagandoedades\0-cagandoedades\bin\Debug\0-cagandoedades.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\0-cargando edades\0-cagandoedades\0-cagandoedades\bin\Debug\0-cagandoedades.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\0-cargando edades\0-cagandoedades\0-cagandoedades\obj\Debug\0-cagandoedades.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\0-cargando edades\0-cagandoedades\0-cagandoedades\obj\Debug\0-cagandoedades.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\0-cargando edades\0-cagandoedades\0-cagandoedades\obj\Debug\0-cagandoedades.pdb
