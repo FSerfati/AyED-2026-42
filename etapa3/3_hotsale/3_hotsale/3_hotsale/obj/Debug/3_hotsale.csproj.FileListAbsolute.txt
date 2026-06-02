@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\3_hotsale\3_hotsale\3_hotsale\bin\Debug\3_hotsale.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\3_hotsale\3_hotsale\3_hotsale\bin\Debug\3_hotsale.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\3_hotsale\3_hotsale\3_hotsale\bin\Debug\3_hotsale.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\3_hotsale\3_hotsale\3_hotsale\obj\Debug\3_hotsale.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\3_hotsale\3_hotsale\3_hotsale\obj\Debug\3_hotsale.pdb
