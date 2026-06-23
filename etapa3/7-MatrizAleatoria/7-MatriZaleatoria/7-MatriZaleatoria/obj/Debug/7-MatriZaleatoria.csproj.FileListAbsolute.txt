@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\7-MatrizAleatoria\7-MatriZaleatoria\7-MatriZaleatoria\bin\Debug\7-MatriZaleatoria.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\7-MatrizAleatoria\7-MatriZaleatoria\7-MatriZaleatoria\bin\Debug\7-MatriZaleatoria.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\7-MatrizAleatoria\7-MatriZaleatoria\7-MatriZaleatoria\bin\Debug\7-MatriZaleatoria.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\7-MatrizAleatoria\7-MatriZaleatoria\7-MatriZaleatoria\obj\Debug\7-MatriZaleatoria.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\7-MatrizAleatoria\7-MatriZaleatoria\7-MatriZaleatoria\obj\Debug\7-MatriZaleatoria.pdb
