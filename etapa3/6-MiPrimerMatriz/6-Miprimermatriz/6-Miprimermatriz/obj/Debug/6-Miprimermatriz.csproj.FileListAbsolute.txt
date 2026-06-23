@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\6-MiPrimerMatriz\6-Miprimermatriz\6-Miprimermatriz\bin\Debug\6-Miprimermatriz.exe.config
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\6-MiPrimerMatriz\6-Miprimermatriz\6-Miprimermatriz\bin\Debug\6-Miprimermatriz.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\6-MiPrimerMatriz\6-Miprimermatriz\6-Miprimermatriz\bin\Debug\6-Miprimermatriz.pdb
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\6-MiPrimerMatriz\6-Miprimermatriz\6-Miprimermatriz\obj\Debug\6-Miprimermatriz.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\6-MiPrimerMatriz\6-Miprimermatriz\6-Miprimermatriz\obj\Debug\6-Miprimermatriz.exe
+C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\6-MiPrimerMatriz\6-Miprimermatriz\6-Miprimermatriz\obj\Debug\6-Miprimermatriz.pdb
