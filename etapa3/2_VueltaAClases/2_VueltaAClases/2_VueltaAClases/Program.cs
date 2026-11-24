@@ -73,7 +73,7 @@ namespace _2_VueltaAClases
             for (int i = 0; i < examenes.Length; i++)
             {
 
-                suma += tp[i];
+                suma += examenes[i];
             }
 
             double promedio1 = (double)suma / examenes.Length;
@@ -108,7 +108,7 @@ namespace _2_VueltaAClases
             Console.WriteLine("Ingrese la cantidad de trabajos prácticos de Ferb:");
             int cantidad2 = int.Parse(Console.ReadLine());
 
-            int[] tp1 = new int[cantidad];
+            int[] tp1 = new int[cantidad2];
 
             for (int i = 0; i < tp1.Length; i++)
             {

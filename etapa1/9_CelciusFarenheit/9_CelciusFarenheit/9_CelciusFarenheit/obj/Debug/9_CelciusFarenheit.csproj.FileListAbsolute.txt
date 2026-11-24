@@ -3,3 +3,9 @@ C:\Users\Lab AyED\Documents\2_Serfati Angel\9_CelciusFarenheit\9_CelciusFarenhei
 C:\Users\Lab AyED\Documents\2_Serfati Angel\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.pdb
 C:\Users\Lab AyED\Documents\2_Serfati Angel\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.exe
 C:\Users\Lab AyED\Documents\2_Serfati Angel\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.pdb
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa1\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.exe.config
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa1\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.exe
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa1\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.pdb
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa1\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.exe
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa1\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.pdb
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa1\9_CelciusFarenheit\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.csprojResolveAssemblyReference.cache

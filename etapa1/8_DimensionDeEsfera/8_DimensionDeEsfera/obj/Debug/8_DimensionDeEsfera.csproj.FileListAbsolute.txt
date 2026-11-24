@@ -1,6 +1,0 @@
-C:\Users\Lab AyED\Documents\2_Serfati Angel\8_DimensionDeEsfera\8_DimensionDeEsfera\bin\Debug\8_DimensionDeEsfera.exe.config
-C:\Users\Lab AyED\Documents\2_Serfati Angel\8_DimensionDeEsfera\8_DimensionDeEsfera\bin\Debug\8_DimensionDeEsfera.exe
-C:\Users\Lab AyED\Documents\2_Serfati Angel\8_DimensionDeEsfera\8_DimensionDeEsfera\bin\Debug\8_DimensionDeEsfera.pdb
-C:\Users\Lab AyED\Documents\2_Serfati Angel\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.csprojResolveAssemblyReference.cache
-C:\Users\Lab AyED\Documents\2_Serfati Angel\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.exe
-C:\Users\Lab AyED\Documents\2_Serfati Angel\8_DimensionDeEsfera\8_DimensionDeEsfera\obj\Debug\8_DimensionDeEsfera.pdb

@@ -13,7 +13,7 @@ namespace _9_CelciusFarenheit
             Console.Write("inserte una temperatura: ");
             int radio = int.Parse(Console.ReadLine());
             double Fahrenheit = (radio * 1.8) + 32;
-            double kelvin = radio + 273;
+            double kelvin = radio + 273.15;
             Console.WriteLine("valor de fahrenheit: " + Fahrenheit);
             Console.WriteLine("valor de kelvin: " + kelvin);
             Console.ReadKey();

@@ -1,1 +1,2 @@
 C:\Users\Lab AyED\Documents\2_SerfatiAngel\etapa3\5_centroPM\5_centroPM\5_centroPM\bin\Debug\5_centroPM.exe.config
+C:\Users\Lab AyED\Documents\serfati\AyED-2026-42\etapa3\5_centroPM\5_centroPM\5_centroPM\bin\Debug\5_centroPM.exe.config

@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             Console.Write("Ingrese un año: ");
             int bisiesto = int.Parse(Console.ReadLine());
-            if (bisiesto % 4 == 0 && bisiesto % 100 != 0)
+            if ((bisiesto % 4 == 0 && bisiesto % 100 != 0) || (bisiesto % 400 == 0))
             {
                 Console.Write("El año es bisiesto");
             }
